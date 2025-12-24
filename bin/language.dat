@@ -123,8 +123,7 @@
 | 4th %s - new position
 
 [CHANGEPOSITION] {\nMin. %s :(%s) %s will now play as %s}
-
-
+
 | A substitution
 | 1st %s - minute
 | 2nd %s - team abbrevation
